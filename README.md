@@ -7,6 +7,7 @@ I'm passionate about building, learning, and sharing knowledge with the tech com
 
 ## 🚀 About Me
 
+- 👨‍💻 Web Developer & MERN Stack Full Stack Developer
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Love solving real-world problems through code
 - 🤝 Open to collaboration on exciting projects
@@ -18,18 +19,21 @@ I'm passionate about building, learning, and sharing knowledge with the tech com
 
 Here’s a glimpse of what I work with:
 
-- **Languages:**
-  Python, Javascript, Html, Css
+- **Languages:**  
+  HTML, CSS, JavaScript, Python
 - **Frameworks & Libraries:**  
-  React, Node, FastAPI, Framer-motion
+  MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Tools & Platforms:**  
-  Github, ChatGPT, Copilot
+  Git, GitHub, VS Code
 
 ---
 
 ## 🌟 Featured Projects
 
-<!-- Highlight a few favorite repositories or open source contributions with short descriptions and links -->
+- [My Portfolio](https://mahadev422.github.io/Portfolio/)  
+  A showcase of my work, skills, and experience as a web developer.
+
+<!-- Add more project links and descriptions here as you wish -->
 
 ---
 
@@ -51,9 +55,8 @@ Here’s a glimpse of what I work with:
 
 <!--
 Personalize this README by providing:
-- Your profession or role (e.g., Developer, Data Scientist)
-- Top skills and technologies
-- Favorite or best projects (with links)
+- More top skills and technologies (if any)
+- More favorite or best projects (with links)
 - Social links (LinkedIn, Twitter, personal site, etc.)
 - Anything else you'd like to highlight!
 -->
