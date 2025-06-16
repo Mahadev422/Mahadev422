@@ -18,8 +18,8 @@ I'm passionate about building, learning, and sharing knowledge with the tech com
 
 Here’s a glimpse of what I work with:
 
-- **Languages:**  
-  <!-- List your programming languages here -->
+- **Languages:**
+  Python, Javascript, Html, Css
 - **Frameworks & Libraries:**  
   <!-- List your favorite frameworks and libraries -->
 - **Tools & Platforms:**  
