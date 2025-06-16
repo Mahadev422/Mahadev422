@@ -21,9 +21,9 @@ Here’s a glimpse of what I work with:
 - **Languages:**
   Python, Javascript, Html, Css
 - **Frameworks & Libraries:**  
-  <!-- List your favorite frameworks and libraries -->
+  React, Node, FastAPI, Framer-motion
 - **Tools & Platforms:**  
-  <!-- List your favorite tools, platforms, or services -->
+  Github, ChatGPT, Copilot
 
 ---
 
